@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nkrumah Dubazana</h1>
-<h3 align="center">Full-stack developer** | 🎨 **Creative Thinker** | 💡 **Problem Solver**<br/>
+<h3 align="center">Full-stack developer | 🎨 Creative Thinker | 💡 Problem Solver<br/>
 Nkrumah Dubazana, a self-taught Software Engineer, Data Analyst, and Robotic Process Automation (RPA) Developer. I specialize in full-stack software development, data manipulation, and process automation. With a portfolio rich in diverse technical projects and innovative solutions, I merge creativity with robust technical skills to drive efficiency and excellence in everything I work on.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x41mujt4b4&label=Profile%20views&color=0e75b6&style=flat" alt="0x41mujt4b4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x41mujt4b4" alt="0x41mujt4b4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nkrumah-Dubazana" alt="Nkrumah-Dubazana" /></a> </p>
 
 - 🌱 I'm currently diving into **Data Science**
 
